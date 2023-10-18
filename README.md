@@ -1,2 +1,2 @@
 # Data-Mining-Preprocessing
-Leveraged preprocessing techniques to reduce noisy data and also get meaningful information out of data
+To enhance the quality and extract meaningful insights from noisy data, I employed a range of preprocessing techniques. First, data cleaning was pivotal; I identified and handled outliers and missing values. For numeric features, I performed normalization and standardization to ensure uniform scaling.Also including feature selection to reduce dimensionality and feature extraction via methods like PCA. 
