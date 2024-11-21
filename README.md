@@ -1,2 +1,7 @@
-# Data-Mining-Preprocessing
-To enhance the quality and extract meaningful insights from noisy data, I employed a range of preprocessing techniques. First, data cleaning was pivotal; I identified and handled outliers and missing values. For numeric features, I performed normalization and standardization to ensure uniform scaling.Also including feature selection to reduce dimensionality and feature extraction via methods like PCA. 
+# Data-Mining and Preprocessing
+
+To extract meaningful insights from noisy data, I implemented a comprehensive suite of preprocessing techniques:
+
+Data Cleaning: Identified and handled outliers and missing values to ensure data integrity.
+Feature Scaling: Applied normalization and standardization to numeric features for consistent scaling across the dataset.
+Dimensionality Reduction: Utilized feature selection to eliminate irrelevant variables and employed techniques like Principal Component Analysis (PCA) for feature extraction.
